@@ -1,0 +1,38 @@
+p
+{
+    width: 660px;
+    margin: auto;
+     font-size: 1.15em
+}
+h1, h2, h3, li, hr
+{
+    width: 660px;
+    margin: auto;
+    font-size: 1.15em
+}
+blockquote
+{
+    width: 530px;
+    margin: auto;
+    font-size: 1.15em
+}
+h1
+{
+    font-size: 2.35em
+}
+h2
+{
+    font-size: 1.60em
+}
+h3
+{
+    font-size: 1.25em
+}
+.format
+{
+    font-style: italic
+}
+.bld
+{
+    font-weight: bold
+}
